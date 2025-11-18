@@ -1,0 +1,22 @@
+# Stable-Baselines3 for RL
+stable-baselines3>=2.2.0
+
+# Gymnasium environment
+gymnasium>=1.2.0
+
+# PyTorch (CPU/GPU)
+torch>=2.1.0
+torchvision>=0.16.0
+
+# Sentence Transformers for embeddings
+sentence-transformers>=2.3.0
+transformers>=4.35.0
+
+# Numerical and general utilities
+numpy>=1.26.0
+
+# Logging and monitoring
+wandb>=0.16.0
+
+# Optional: for environment checks and testing
+pytest>=8.0.0
